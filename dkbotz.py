@@ -19,7 +19,7 @@ LOG_CHANNEL = os.getenv("LOG_CHANNEL")
 if LOG_CHANNEL and LOG_CHANNEL.startswith("-100"):
     LOG_CHANNEL = int(LOG_CHANNEL)
 
-UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/DKBOTZ")
+UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/shuklaxd")
 # ==========================================
 
 # ================= Message =================
